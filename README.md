@@ -3,6 +3,6 @@
 
 https://saeja.github.io/saeja-web/472Lab2.html
 
-<img src="images/filenameLab2Excerpt.png">
+![alt text](https://github.com/[Saeja]/[Exploratory-Lab2-Interactive-Mapping]/blob/[branch]/image.jpg?raw=true)
 
 
